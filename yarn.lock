@@ -2934,6 +2934,11 @@
   dependencies:
     "@babel/types" "^7.3.0"
 
+"@types/breejs__later@4.1.0":
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/@types/breejs__later/-/breejs__later-4.1.0.tgz#75eaabeb321933a5dc8bb5cee95d21683b17a1c4"
+  integrity sha512-iLmw9TWO+hoBEEP4dSaI4sZfWSctPl5UrnqCYMNuGomtmPphT65JP4jRyEbFUugtGm4jx/ToRl2uX5DUI91ivA==
+
 "@types/bunyan@1.8.7":
   version "1.8.7"
   resolved "https://registry.yarnpkg.com/@types/bunyan/-/bunyan-1.8.7.tgz#63cc65b5ecff6217d1509409a575e7b991f80831"
